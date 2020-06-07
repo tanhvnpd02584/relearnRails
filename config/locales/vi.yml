@@ -1,0 +1,13 @@
+vi:
+  helper:
+    text_title: "Ruby on rails tutorial Ứng dụng Sample"
+  application:
+    text_en: "Tiếng anh"
+    text_vi: "Tiếng việt"
+  homepage:
+  layout_header:
+    text_sample: "Ứng dụng Sample"
+    text_home: "Trang chủ"
+    text_help: "Giúp đỡ"
+    text_login: "Đăng nhập"
+
